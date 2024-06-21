@@ -5,6 +5,7 @@ html, body {
     padding: 0;
 }
 
+/* very basic styling so the program has a grid to work with */
 .grid-grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
